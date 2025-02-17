@@ -1,2 +1,2 @@
 # eternal-purple
-Plog page
+Blog page
