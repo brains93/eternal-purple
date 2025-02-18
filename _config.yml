@@ -8,4 +8,12 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
-    
+# Enable grid layout for posts
+collections:
+  posts:
+    output: true
+    layout: grid
+
+# Pagination settings
+paginate: 6
+paginate_path: "/page:num/"
